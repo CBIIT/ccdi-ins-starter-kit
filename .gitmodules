@@ -1,0 +1,21 @@
+[submodule "INS-WebPortal"]
+	path = INS-WebPortal
+	url = https://github.com/CBIIT/INS-WebPortal
+[submodule "ccdi-devops-ins"]
+	path = ccdi-devops-ins
+	url = https://github.com/CBIIT/ccdi-devops-ins
+[submodule "INS-WebService"]
+	path = INS-WebService
+	url = https://github.com/CBIIT/INS-WebService
+[submodule "INS-Dataloader"]
+	path = INS-Dataloader
+	url = https://github.com/CBIIT/INS-Dataloader
+[submodule "INS-Data"]
+	path = INS-Data
+	url = https://github.com/CBIIT/INS-Data
+[submodule "ins-model"]
+	path = ins-model
+	url = https://github.com/CBIIT/ins-model
+[submodule "INS-ETL"]
+	path = INS-ETL
+	url = https://github.com/CBIIT/INS-ETL
